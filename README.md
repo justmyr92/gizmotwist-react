@@ -1,5 +1,5 @@
 # gizmotwist-react
 
-# First Commit
+### First Commit
 
 Can now fetch on the database using mongodb
